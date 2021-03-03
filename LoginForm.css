@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.header1{
+    position: absolute;
+    left: 490px;
+    top: 150px;
+    border: solid 2px black;
+    padding: 70px;
+    border-radius: 20px 20px;
+    box-shadow: 10px 0px 30px 20px greenyellow;
+    
+}
+input{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: ease 0.3s;
+}
+button{
+    position: absolute;
+    left: 160px;
+    
+}
+h2{
+    color: greenyellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3{
+    color: greenyellow;
+    position: absolute;
+    top: 150px;
+    left: 660px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
